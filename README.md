@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gyanendra Kumar
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through Email, my email id is gyanendra143career@gmail.com
 
